@@ -63,10 +63,6 @@ curl -X POST "http://localhost:4000/agents/workshop_agent/chat" \
 | Variable | Description | Required | Default |
 |----------|-------------|----------|---------|
 | `GEMINI_API_KEY` | Your Gemini API key | Yes (for Gemini) | - |
-| `MODEL_GEMINI` | Gemini model to use | No | `gemini/gemini-2.0-flash` |
-| `GEMINI_BASE_URL` | Gemini API base URL | No | `https://generativelanguage.googleapis.com/v1beta/models` |
-| `OPENAI_BASE_URL` | OpenAI-compatible base URL | Yes (for OpenAI) | - |
-| `OPENAI_API_KEY` | OpenAI API key | Yes (for OpenAI) | - |
 
 
 ## 📚 Workshop Exercises
