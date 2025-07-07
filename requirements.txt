@@ -1,0 +1,11 @@
+google-adk
+fastapi
+uvicorn
+python-dotenv
+litellm
+
+# Add Google's official genai SDK
+google-genai
+
+# Optional: for HTTP fallback
+httpx
